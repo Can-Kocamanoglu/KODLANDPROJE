@@ -13,6 +13,6 @@ for i in range(5):
 
 
 if word in meme_dict.keys():
-    print(meme_dict[word])
+    print(word)
 else:
     print("CRINGE, LOL, ROFL, SHEESH, CREEPY veya AGGRO kelimelerini kullanın")
